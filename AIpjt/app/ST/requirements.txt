@@ -27,7 +27,7 @@ executing==0.10.0
 fastapi==0.85.0
 fastjsonschema==2.16.1
 filelock==3.8.0
-fonttools==4.37.0
+fonttools==4.43.0
 ftfy==6.1.1
 gcloud==0.18.3
 google==3.0.0
