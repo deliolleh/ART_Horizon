@@ -24,7 +24,7 @@ defusedxml==0.7.1
 Deprecated==1.2.13
 entrypoints==0.4
 executing==0.10.0
-fastapi==0.85.0
+fastapi==0.109.1
 fastjsonschema==2.16.1
 filelock==3.8.0
 fonttools==4.37.0
